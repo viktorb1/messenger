@@ -1,3 +1,3 @@
-# Messanger
+# Messenger
 
-A messanger REST API written in Python using Django and Django Rest Framework
+A messenger REST API written in Python using Django and Django Rest Framework
